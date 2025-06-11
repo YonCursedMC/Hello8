@@ -13,6 +13,7 @@
 - クラッシュすることがありますが仕様です。
 - WindowsPC推奨です。Androidなどだと一部怪奇が起こらないかもしれません
 - 時々とんでもない挙動をすることがあります。自己責任で実行して下さい。
+- サーバーはありませんのでご注意ください。
 
 ## Caution
 - This version was not released by Mojang, nor is it officially certified.
@@ -25,7 +26,7 @@
 - Crashes may occur, but this is by design.
 - Windows PC is recommended. Some strange things may not happen on Android.
 - Sometimes it behaves strangely, so use at your own risk.
-
+- Please note that there is no server.
 
 ## 動かし方
 ### クライアント
@@ -45,11 +46,6 @@ https://multimc.org/#Download<br>
 
 4. 楽しむ！
 
-### サーバー
-- 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。<br>
-※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
-- 必ずオフラインモードで実行してください！(初期状態ではオフになっています)<br>
-
 ## How to run it
 ### Client
 
@@ -67,11 +63,6 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 3. Once installed, specify the zulu Java 8 that you installed earlier in the Java installation, change memory allocation as necessary, and click Start<br>
 
 4. Enjoy!
-
-### Server
-- It's the same as a normal Minecraft server. Please do your own research and try it out.<br>
-※ It works differently from the client, is not perfect, and has many bugs! Please be patient with the bugs as you do so!<br>
-- Make sure you run it in offline mode!(It is turned off by default)<br>
 
 ## クレジット
 クレジット
@@ -131,12 +122,3 @@ You'll have to wait to try it out to see what the elements are.<br>
 
 ※ Notes when playing in single mode
 - Be sure to update your graphics driver before running this.
-
-※ サーバーでやる際の注意
-- シングルプレイと仕様が違うことがあります。注意してください。
-
-※ Notes when playing on a server
-- The design may differ from single player. Please be careful.
-
-F6 + T
-F9 + T

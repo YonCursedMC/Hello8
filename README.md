@@ -68,6 +68,8 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 クレジット
 ### テクスチャ製作者
 - TestAlpha様
+### テクスチャ
+- http://www.trainfrontview.net/f-sozai.htm
 ### 音
 - freesound様<br>
 https://freesound.org<br>
@@ -92,6 +94,8 @@ https://www.ravbug.com/bsod/
 Credits
 ### Texture creators
 - TestAlpha
+### Texture
+- http://www.trainfrontview.net/f-sozai.htm
 ### Sound
 - freesound<br>
 https://freesound.org<br>
